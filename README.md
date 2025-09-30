@@ -1,2 +1,2 @@
 # protein-visualisation
-Detailed visualisation of protein structures using python tools.
+Visualizing protein structures using Biopython and Python libraries
